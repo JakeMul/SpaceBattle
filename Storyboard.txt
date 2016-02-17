@@ -1,0 +1,18 @@
+This set of battle scenes will be inspired by the upcoming space game Star Citizen developed by Cloud Imperium Games. 
+
+The project will consist of three core scenes which will be divided into smaller sub-scenes depending on how the battle plays out.
+
+Scene 1: Preparation
+This scene will involve a number of UEE (friendly) ships stationed aboard a large vessel like a carrier. This may be a space station or landing pads in future. The fleet will consist of different models for differing classes of ships such as fighters or bombers. The camera will begin by panning across the array of ships and then move out to view the entire friendly force. Each of the ships will raise up sequentially and fly off from their respective landing points. The ships must all move into formation to transition to the next scene.
+Scene 2: Warp
+This will have the ships retaining their formation and entering quantum travel to access the far reaching areas of the galaxy. The camera will be fixated showing the entire fleet as it warps. This will use visual effects which completely surround the UEE fleet like a tunnel as well as various sound effects. This scene should last roughly 5-8 seconds as it will be used again in future and is mainly a transition scene.
+Scene 3: Vanduul Introduction
+The enemy force will be introduced with a camera focusing on ships warping in from quantum travel. Some ships will already be in the area prior to this. The camera will pan across showing the extent of the enemy forces
+Scene 5: Battle 1
+The UEE fleet will enounter the enemny forces. These enemies will have distinct ship designs as well as engine colours and ship categories to easily distinguish them. The enemy will have brought skirmishers and fighters as well larger capital class ships which can only be engaged by UEE bombers. Bombers have the ability to launch torpedoes which will use the same physical movement system as the ships with increased movement speed. These torpedoes will automatically target larger ships unless intercepted. Missiles can also be fired by fighter class ships and will behave similarly with weaker damage values. All missiles will explode based on primity to the target game object. The battle sequence will cycle between UEE and enemy ships slowly rotating around them as the track each other and attemp to shoot each other. The camera will occasionally switch to a first person view giving a UI overlay to the corresponding ship. 
+Scene 6: Battle conclusion
+The winners of the battle sequence will form up between all remaining ships with respect to ship class/size and overall numbers. 
+Scene 7: Warp
+The gathered reamining fleet will re-enter quantum travel using the same transitional effect and camera angles. In this sequence ships may deviate slightly from a straight path to show issues with flight as a result of the battle they've undergone.
+Scene 8: Return to friendly space
+The winning side be it UEE or the enemy Vanduul will return to their starting area. The ships will then split from their formation and land in their designated pads/docking areas
